@@ -1,16 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.9.9)  8 MAY 2018 18:05
-entering extended mode
-**PlaComunicacion.tex
-(PlaComunicacion.tex
-LaTeX2e <2015/01/01> patch level 2
-Babel <3.9m> and hyphenation patterns for 69 languages loaded.
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
-File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
-=======
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.4.7)  8 MAY 2018 17:42
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.4.7)  8 MAY 2018 18:04
 entering extended mode
 **PlaComunicacion.tex
 (C:\Users\IT\Desktop\2018\Poster_EST_16_3_18\prueba\ISLPComunicacion\PlaComunicacion.tex
@@ -26,7 +14,6 @@ elsh, loaded.
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
 File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 )
 \c@part=\count79
 \c@section=\count80
@@ -39,14 +26,8 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-<<<<<<< HEAD
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2015/08/03 3.9m The Babel package
-=======
 ) ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
 Package: babel 2008/07/08 v3.8m The Babel package
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 
 *************************************
 * Local config file bblopts.cfg used
@@ -54,30 +35,6 @@ Package: babel 2008/07/08 v3.8m The Babel package
 ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\latex\babel-spanish\spanish.ldf"
-Language: spanish.ldf 2014/04/24 v5.0n Spanish support from the babel system
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2015/08/03 3.9m Babel common definitions
-\babel@savecnt=\count87
-\U@D=\dimen103
-)
-\es@quottoks=\toks14
-\es@quotdepth=\count88
-Package babel Info: Making " an active character on input line 516.
-Package babel Info: Making . an active character on input line 617.
-Package babel Info: Making < an active character on input line 662.
-Package babel Info: Making > an active character on input line 662.
-))
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
-Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks15
-\inpenc@posthook=\toks16
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
-File: utf8.def 2015/06/27 v1.1n UTF-8 support for inputenc
-=======
 ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\spanish.ldf"
 Language: spanish.ldf 2009/01/02 v5.0h Spanish support from the babel system
  ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
@@ -98,18 +55,13 @@ Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@posthook=\toks16
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
-<<<<<<< HEAD
-File: t1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
-=======
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00AB (decimal 171)
@@ -257,14 +209,8 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 )
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
-<<<<<<< HEAD
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
-File: ot1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
-=======
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00B8 (decimal 184)
@@ -295,11 +241,7 @@ Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
-<<<<<<< HEAD
-File: omsenc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
-=======
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -321,12 +263,7 @@ Now handling font encoding U ...
    defining Unicode char U+2026 (decimal 8230)
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
-<<<<<<< HEAD
-))
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\latexsym.sty"
-=======
 )) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\latexsym.sty"
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
@@ -346,11 +283,7 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
-<<<<<<< HEAD
-Package graphics Info: Driver file: pdftex.def on input line 94.
-=======
 Package graphics Info: Driver file: pdftex.def on input line 91.
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
@@ -361,11 +294,7 @@ Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
-<<<<<<< HEAD
-\Gread@gobject=\count89
-=======
 \Gread@gobject=\count90
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 ))
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
@@ -376,10 +305,6 @@ Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
 Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
 Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
@@ -399,23 +324,13 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-<<<<<<< HEAD
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
-)
-=======
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO)
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
-<<<<<<< HEAD
-Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
-)
-=======
 Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO)
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
 Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
 )
@@ -439,24 +354,15 @@ Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen106
-<<<<<<< HEAD
-\Hy@linkcounter=\count90
-\Hy@pagecounter=\count91
-=======
 \Hy@linkcounter=\count91
 \Hy@pagecounter=\count92
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-<<<<<<< HEAD
-\Hy@SavedSpaceFactor=\count92
-=======
 \Hy@SavedSpaceFactor=\count93
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -468,25 +374,15 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-<<<<<<< HEAD
-\c@Hy@tempcnt=\count93
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
-=======
 \c@Hy@tempcnt=\count94
 
 (C:\Users\IT\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
 \XeTeXLinkMargin=\dimen107
-<<<<<<< HEAD
-\Fld@menulength=\count94
-=======
 \Fld@menulength=\count95
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 \Field@Width=\dimen108
 \Fld@charsize=\dimen109
 Package hyperref Info: Hyper figures OFF on input line 6295.
@@ -498,34 +394,15 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-<<<<<<< HEAD
-\Hy@abspage=\count95
-\c@Item=\count96
-\c@Hfootnote=\count97
-=======
 \Hy@abspage=\count96
 \c@Item=\count97
 \c@Hfootnote=\count98
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-<<<<<<< HEAD
-\Fld@listcount=\count98
-\c@bookmark@seq@number=\count99
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
-Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-82.
-)
-\Hy@SectionHShift=\skip43
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty"
-=======
 \Fld@listcount=\count99
 \c@bookmark@seq@number=\count100
 
@@ -536,7 +413,6 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 \Hy@SectionHShift=\skip43
 )
 (C:\Users\IT\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.sty
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 Package: subfigure 2002/07/30 v2.1.4 subfigure package
 \subfigtopskip=\skip44
 \subfigcapskip=\skip45
@@ -544,26 +420,15 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 \subfigbottomskip=\skip46
 \subfigcapmargin=\dimen111
 \subfiglabelskip=\skip47
-<<<<<<< HEAD
-\c@subfigure=\count100
-\c@lofdepth=\count101
-\c@subtable=\count102
-\c@lotdepth=\count103
-=======
 \c@subfigure=\count101
 \c@lofdepth=\count102
 \c@subtable=\count103
 \c@lotdepth=\count104
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg")
-=======
 (C:\Users\IT\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.cfg)
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 \subfig@top=\skip48
 \subfig@bottom=\skip49
 )
@@ -572,15 +437,6 @@ Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 \epsfxsize=\dimen112
 \epsfysize=\dimen113
 )
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\latex\rotating\rotating.sty"
-Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-\c@r@tfl@t=\count104
-=======
 (C:\Users\IT\AppData\Roaming\MiKTeX\2.9\tex\latex\rotating\rotating.sty
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 
@@ -588,43 +444,19 @@ Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \c@r@tfl@t=\count105
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 \rotFPtop=\skip50
 \rotFPbot=\skip51
 \rot@float@box=\box26
 \rot@mess@toks=\toks18
-<<<<<<< HEAD
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
-Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
-=======
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
 Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
  ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
 Package grfext Info: Graphics extension search list:
-<<<<<<< HEAD
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
-))
-("C:\Program Files\MiKTeX 2.9\tex\latex\ctable\ctable.sty"
-Package: ctable 2015/10/17 v1.31 ctable package for flexible typesetting of tab
-le and figure floats using key/value directives
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
-Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count105
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
-=======
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 ))
@@ -642,7 +474,6 @@ Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
 \etb@tempcnta=\count107
 )
 (C:\Users\IT\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
@@ -658,22 +489,6 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
-<<<<<<< HEAD
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
-\XKV@toks=\toks19
-\XKV@tempa@toks=\toks20
-)
-\XKV@depth=\count106
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
-Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
-=======
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
 Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
  ("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
@@ -684,36 +499,22 @@ File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 \col@sep=\dimen114
 \extrarowheight=\dimen115
 \NC@list=\toks21
 \extratabsurround=\skip52
 \backup@length=\skip53
-<<<<<<< HEAD
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
-Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
-=======
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
 Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 \TX@col@width=\dimen116
 \TX@old@table=\dimen117
 \TX@old@col=\dimen118
 \TX@target=\dimen119
 \TX@delta=\dimen120
-<<<<<<< HEAD
-\TX@cols=\count107
-\TX@ftn=\toks22
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
-=======
 \TX@cols=\count109
 \TX@ftn=\toks22
 )
 (C:\Users\IT\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen121
 \lightrulewidth=\dimen122
@@ -725,29 +526,16 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \cmidrulesep=\dimen128
 \cmidrulekern=\dimen129
 \defaultaddspace=\dimen130
-<<<<<<< HEAD
-\@cmidla=\count108
-\@cmidlb=\count109
-\@aboverulesep=\dimen131
-\@belowrulesep=\dimen132
-\@thisruleclass=\count110
-\@lastruleclass=\count111
-=======
 \@cmidla=\count110
 \@cmidlb=\count111
 \@aboverulesep=\dimen131
 \@belowrulesep=\dimen132
 \@thisruleclass=\count112
 \@lastruleclass=\count113
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 \@thisrulewidth=\dimen133
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\transparent.sty"
 Package: transparent 2007/01/08 v1.0 Transparency via pdfTeX's color stack (HO)
-<<<<<<< HEAD
-
-=======
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 )
 \@CTframesep=\dimen134
 \@dfltCTframesep=\dimen135
@@ -771,34 +559,17 @@ Package: transparent 2007/01/08 v1.0 Transparency via pdfTeX's color stack (HO)
 \@CTcurftwidth=\dimen152
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
-<<<<<<< HEAD
-Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
-=======
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 \LTleft=\skip54
 \LTright=\skip55
 \LTpre=\skip56
 \LTpost=\skip57
-<<<<<<< HEAD
-\LTchunksize=\count112
-=======
 \LTchunksize=\count114
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 \LTcapwidth=\dimen153
 \LT@head=\box28
 \LT@firsthead=\box29
 \LT@foot=\box30
 \LT@lastfoot=\box31
-<<<<<<< HEAD
-\LT@cols=\count113
-\LT@rows=\count114
-\c@LT@tables=\count115
-\c@LT@chunks=\count116
-\LT@p@ftn=\toks23
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
-=======
 \LT@cols=\count115
 \LT@rows=\count116
 \c@LT@tables=\count117
@@ -806,22 +577,14 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \LT@p@ftn=\toks23
 )
 (C:\Users\IT\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 \everycr=\toks24
 \minrowclearance=\skip58
 )
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
-Package: setspace 2011/12/19 v6.7a set line spacing
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\threeparttable\threeparttable.sty"
-=======
 (C:\Users\IT\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
 (C:\Users\IT\AppData\Roaming\MiKTeX\2.9\tex\latex\threeparttable\threeparttable.sty
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 Package: threeparttable 2003/06/13  v 3.0
 \@tempboxb=\box32
 )
@@ -844,19 +607,11 @@ Package: `anysize' 1.0 <1994/08/13>
 \@Rightmargin=\dimen156
 \@Topmargin=\dimen157
 \@Bottommargin=\dimen158
-<<<<<<< HEAD
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\breakurl\breakurl.sty"
-=======
 ) (C:\Users\IT\AppData\Roaming\MiKTeX\2.9\tex\latex\breakurl\breakurl.sty
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 Package: breakurl 2013/04/10 v1.40 Breakable hyperref URLs
 
 
 Package breakurl Warning: You are using breakurl while processing via pdflatex.
-<<<<<<< HEAD
-
-=======
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 (breakurl)                \burl will be just a synonym of \url.
 (breakurl)                 on input line 48.
 
@@ -882,27 +637,13 @@ Package: amstext 2000/06/29 v2.01
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks26
 \ex@=\dimen159
-<<<<<<< HEAD
-))
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
-=======
 )) ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen160
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-<<<<<<< HEAD
-\inf@bad=\count117
-LaTeX Info: Redefining \frac on input line 210.
-\uproot@=\count118
-\leftroot@=\count119
-LaTeX Info: Redefining \overline on input line 306.
-\classnum@=\count120
-\DOTSCASE@=\count121
-=======
 \inf@bad=\count119
 LaTeX Info: Redefining \frac on input line 210.
 \uproot@=\count120
@@ -910,7 +651,6 @@ LaTeX Info: Redefining \frac on input line 210.
 LaTeX Info: Redefining \overline on input line 306.
 \classnum@=\count122
 \DOTSCASE@=\count123
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 LaTeX Info: Redefining \ldots on input line 378.
 LaTeX Info: Redefining \dots on input line 381.
 LaTeX Info: Redefining \cdots on input line 466.
@@ -919,17 +659,6 @@ LaTeX Info: Redefining \cdots on input line 466.
 \big@size=\dimen161
 LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
-<<<<<<< HEAD
-\macc@depth=\count122
-\c@MaxMatrixCols=\count123
-\dotsspace@=\muskip11
-\c@parentequation=\count124
-\dspbrk@lvl=\count125
-\tag@help=\toks27
-\row@=\count126
-\column@=\count127
-\maxfields@=\count128
-=======
 \macc@depth=\count124
 \c@MaxMatrixCols=\count125
 \dotsspace@=\muskip11
@@ -939,7 +668,6 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \row@=\count128
 \column@=\count129
 \maxfields@=\count130
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 \andhelp@=\toks28
 \eqnshift@=\dimen162
 \alignsep@=\dimen163
@@ -953,14 +681,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \mathdisplay@stack=\toks30
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
-<<<<<<< HEAD
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
-Package: amsthm 2015/03/04 v2.20.2
-=======
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
 Package: amsthm 2004/08/06 v2.20
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 \thm@style=\toks31
 \thm@bodyfont=\toks32
 \thm@headfont=\toks33
@@ -970,25 +692,14 @@ Package: amsthm 2004/08/06 v2.20
 \thm@postskip=\skip63
 \thm@headsep=\skip64
 \dth@everypar=\toks36
-<<<<<<< HEAD
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty"
-=======
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty"
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
-<<<<<<< HEAD
-\Gm@cnth=\count129
-\Gm@cntv=\count130
-\c@Gm@tempcnt=\count131
-=======
 \Gm@cnth=\count131
 \Gm@cntv=\count132
 \c@Gm@tempcnt=\count133
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 \Gm@bindingoffset=\dimen168
 \Gm@wd@mp=\dimen169
 \Gm@odd@mp=\dimen170
@@ -1000,15 +711,6 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@dimlist=\toks37
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
-Package: pdfpages 2015/09/18 v0.5d Insert pages of external PDF documents (AM)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
-Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count132
-\calc@Bcount=\count133
-=======
 (C:\Users\IT\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pdfpages.sty
 Package: pdfpages 2015/09/18 v0.5d Insert pages of external PDF documents (AM)
 
@@ -1016,45 +718,27 @@ Package: pdfpages 2015/09/18 v0.5d Insert pages of external PDF documents (AM)
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count134
 \calc@Bcount=\count135
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 \calc@Adimen=\dimen176
 \calc@Bdimen=\dimen177
 \calc@Askip=\skip65
 \calc@Bskip=\skip66
-<<<<<<< HEAD
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count134
-\calc@Cskip=\skip67
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
-=======
 LaTeX Info: Redefining \setlength on input line 76.
 LaTeX Info: Redefining \addtolength on input line 77.
 \calc@Ccount=\count136
 \calc@Cskip=\skip67
 )
 (C:\Users\IT\AppData\Roaming\MiKTeX\2.9\tex\latex\eso-pic\eso-pic.sty
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
 )
 \AM@pagewidth=\dimen178
 \AM@pageheight=\dimen179
 
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
-=======
 (C:\Users\IT\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pppdftex.def
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 File: pppdftex.def 2015/09/18 v0.5d Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box35
 \AM@toc@title=\toks38
-<<<<<<< HEAD
-\c@AM@survey=\count135
-=======
 \c@AM@survey=\count137
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 \AM@templatesizebox=\box36
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\eucal.sty"
@@ -1062,20 +746,11 @@ Package: eucal 2009/06/22 v3.00 Euler Script fonts
 LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
 (Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
 )
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\latex\sectsty\sectsty.sty"
-Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
-les
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
-Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
-=======
 (C:\Users\IT\AppData\Roaming\MiKTeX\2.9\tex\latex\sectsty\sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
 )
 (C:\Users\IT\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 \ttl@box=\box37
 \beforetitleunit=\skip68
 \aftertitleunit=\skip69
@@ -1086,21 +761,12 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \titlewidthlast=\dimen183
 \titlewidthfirst=\dimen184
 )
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\latex\floatrow\floatrow.sty"
-Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
-Package: caption3 2015/09/20 v1.7-115 caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 57.
-=======
 (C:\Users\IT\AppData\Roaming\MiKTeX\2.9\tex\latex\floatrow\floatrow.sty
 Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
 
 (C:\Users\IT\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
 Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 \captionmargin=\dimen185
 \captionmargin@=\dimen186
 \captionwidth=\dimen187
@@ -1109,20 +775,12 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \caption@parindent=\dimen190
 \caption@hangindent=\dimen191
 )
-<<<<<<< HEAD
-\c@float@type=\count136
-=======
 \c@float@type=\count138
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 \float@exts=\toks40
 \float@box=\box38
 \@floatcapt=\box39
 Package floatrow Info: Modified float package code loaded on input line 455.
 Package floatrow Info: Modified rotfloat package code loaded on input line 473.
-<<<<<<< HEAD
-
-=======
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 \FR@everyfloat=\toks41
 \flrow@foot=\insert233
 \FB@wd=\dimen192
@@ -1134,84 +792,49 @@ Package floatrow Info: Modified rotfloat package code loaded on input line 473.
 \FBo@max=\skip73
 \FBc@max=\skip74
 \FBf@max=\skip75
-<<<<<<< HEAD
-\c@FBl@b=\count137
-\floatbox@depth=\count138
-\c@FRobj=\count139
-\c@FRsobj=\count140
-=======
 \c@FBl@b=\count139
 \floatbox@depth=\count140
 \c@FRobj=\count141
 \c@FRsobj=\count142
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 \Xhsize=\skip76
 \sXhsize=\skip77
 \Zhsize=\skip78
 \sZhsize=\skip79
 \flrow@rowbox=\box40
 \FR@Zunitlength=\dimen195
-<<<<<<< HEAD
-\c@FBcnt=\count141
-\FPOScnt=\count142
-=======
 \c@FBcnt=\count143
 \FPOScnt=\count144
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 \LTleft=\skip80
 \LTright=\skip81
 \LTleft=\skip82
 \LTright=\skip83
 \flrow@types=\toks42
 )
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\latex\apacite\apacite.sty"
-Package: apacite 2013/07/21 v6.03 APA citation
-\c@BibCnt=\count143
-=======
 (C:\Users\IT\AppData\Roaming\MiKTeX\2.9\tex\latex\apacite\apacite.sty
 Package: apacite 2013/07/21 v6.03 APA citation
 \c@BibCnt=\count145
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 \bibleftmargin=\skip84
 \bibindent=\skip85
 \bibparsep=\skip86
 \bibitemsep=\skip87
 \biblabelsep=\skip88
 )
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
-Package: caption 2015/09/17 v3.3-111 Customizing captions (AR)
-\c@ContinuedFloat=\count144
-=======
 (C:\Users\IT\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 \c@ContinuedFloat=\count146
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 Package caption Info: float package is loaded.
 Package caption Info: floatrow package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
 
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
-=======
 (C:\Users\IT\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\ltcaption.sty
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 )
 Package caption Info: rotating package is loaded.
 Package caption Info: subfigure package is loaded.
 Package caption Info: threeparttable package is loaded.
 )
-<<<<<<< HEAD
-(PlaComunicacion.aux
-LaTeX Info: Redefining \. on input line 24.
-LaTeX Info: Redefining \% on input line 24.
-)
-=======
 (C:\Users\IT\Desktop\2018\Poster_EST_16_3_18\prueba\ISLPComunicacion\PlaComunicacion.aux)
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
@@ -1227,23 +850,22 @@ LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 51.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-LaTeX Info: Redefining \. on input line 51.
-LaTeX Info: Redefining \% on input line 51.
- ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+(C:\Users\IT\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count145
+\scratchcounter=\count147
 \scratchdimen=\dimen196
 \scratchbox=\box41
-\nofMPsegments=\count146
-\nofMParguments=\count147
+\nofMPsegments=\count148
+\nofMParguments=\count149
 \everyMPshowfont=\toks43
-\MPscratchCnt=\count148
+\MPscratchCnt=\count150
 \MPscratchDim=\dimen197
-\MPnumerator=\count149
-\makeMPintoPDFobject=\count150
+\MPnumerator=\count151
+\makeMPintoPDFobject=\count152
 \everyMPtoPDFconversion=\toks44
 )
 \AtBeginShipoutBox=\box42
@@ -1254,22 +876,14 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-<<<<<<< HEAD
-\c@section@level=\count151
-=======
 \c@section@level=\count153
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 )
 LaTeX Info: Redefining \ref on input line 51.
 LaTeX Info: Redefining \pageref on input line 51.
 LaTeX Info: Redefining \nameref on input line 51.
 
-<<<<<<< HEAD
-(PlaComunicacion.out) (PlaComunicacion.out)
-=======
 (C:\Users\IT\Desktop\2018\Poster_EST_16_3_18\prueba\ISLPComunicacion\PlaComunicacion.out)
 (C:\Users\IT\Desktop\2018\Poster_EST_16_3_18\prueba\ISLPComunicacion\PlaComunicacion.out)
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 \@outlinefile=\write3
 
 *geometry* driver: auto-detecting
@@ -1309,18 +923,6 @@ LaTeX Info: Redefining \nameref on input line 51.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: floatrow package is loaded.
 Package caption Info: End \AtBeginDocument code.
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\latex\floatrow\fr-longtable.sty"
-Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
-
-\flrow@LT@lasthead=\box43
-\flrow@LT@prelastfoot=\box44
-\c@FBLTpage=\count152
-)
-\c@maskedRefs=\count153
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\apacite\spanish.apc"
-=======
 (C:\Users\IT\AppData\Roaming\MiKTeX\2.9\tex\latex\floatrow\fr-longtable.sty
 Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
 \flrow@LT@lasthead=\box43
@@ -1330,7 +932,6 @@ Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
 \c@maskedRefs=\count155
 
 (C:\Users\IT\AppData\Roaming\MiKTeX\2.9\tex\latex\apacite\spanish.apc
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 File: spanish.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 138.
 LaTeX Info: Redefining \BHBI on input line 139.
@@ -1343,208 +944,34 @@ LaTeX Font Info:    Try loading font information for U+lasy on input line 53.
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Try loading font information for U+msa on input line 53.
-<<<<<<< HEAD
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
-=======
  ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 53.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-<<<<<<< HEAD
-)
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 56.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 56.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 56.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 56.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 56.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 56.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 56.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 56.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 56.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 56.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 56.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 56.
- [1
-
-{C:/Users/Intel/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-=======
 ) [1
 
 {C:/Users/IT/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 59.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 59.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 59.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 59.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 59.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 59.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 59.
 
 Underfull \hbox (badness 10000) in paragraph at lines 61--62
 
  []
 
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 66.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 66.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 66.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 66.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 66.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 66.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 75.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 75.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 75.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 75.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 75.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 75.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 80.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 80.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 80.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 80.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 80.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 80.
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 89.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 89.
-<<<<<<< HEAD
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 129.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 129.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 129.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 129.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 129.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 129.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 129.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 129.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 129.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 129.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 129.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 129.
-=======
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
- [2]
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 212.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 212.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 212.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 212.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 212.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 212.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 212.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 212.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 212.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 212.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 212.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 212.
- [3]
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 229.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 229.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 229.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 229.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 229.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 229.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 231.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 231.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 231.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 231.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 231.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 231.
-
+ [2] [3]
 Underfull \hbox (badness 10000) in paragraph at lines 233--234
 
  []
 
-<<<<<<< HEAD
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 251.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 251.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 251.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 251.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 251.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 251.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 277.
 
@@ -1556,105 +983,27 @@ Underfull \hbox (badness 2680) in paragraph at lines 277--277
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 283.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 283.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 283.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 283.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 283.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 283.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 283.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 283.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 283.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 283.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 283.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 283.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 283.
-[4]
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 283.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 283.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 283.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 283.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 283.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 283.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 283.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 283.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 283.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 283.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 283.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 283.
- [5]
+[4] [5]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 283.
- (PlaComunicacion.aux
-LaTeX Info: Redefining \. on input line 24.
-LaTeX Info: Redefining \% on input line 24.
-)
+ (C:\Users\IT\Desktop\2018\Poster_EST_16_3_18\prueba\ISLPComunicacion\PlaComunicacion.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 283.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 283.
-=======
-[3]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 251.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 257.
- [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 257.
- (C:\Users\IT\Desktop\2018\Poster_EST_16_3_18\prueba\ISLPComunicacion\PlaComunicacion.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 257.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 257.
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
 Package rerunfilecheck Info: File `PlaComunicacion.out' has not changed.
 (rerunfilecheck)             Checksum: 1306C3ECBEC7B8406D28A62CE0F11A71;389.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 283.
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 12359 strings out of 493673
- 177488 string characters out of 3143961
- 313236 words of memory out of 3000000
- 15442 multiletter control sequences out of 15000+200000
- 20760 words of font info for 59 fonts, out of 3000000 for 9000
- 1025 hyphenation exceptions out of 8191
- 54i,13n,92p,925b,561s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-urw/times/utmr8a.pfb>
-Output written on PlaComunicacion.pdf (5 pages, 52017 bytes).
-=======
- 12228 strings out of 493921
- 176753 string characters out of 3147292
- 303520 words of memory out of 3000000
+ 12230 strings out of 493921
+ 176765 string characters out of 3147292
+ 306520 words of memory out of 3000000
  15258 multiletter control sequences out of 15000+200000
  20760 words of font info for 59 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 54i,13n,92p,925b,556s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 54i,13n,92p,925b,562s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
 /times/utmr8a.pfb>
-Output written on PlaComunicacion.pdf (4 pages, 50873 bytes).
->>>>>>> 5ed7b25555b8ef96e911ae943d85decaed9621e9
+Output written on PlaComunicacion.pdf (5 pages, 52025 bytes).
 PDF statistics:
  79 PDF objects out of 1000 (max. 8388607)
  19 named destinations out of 1000 (max. 500000)
