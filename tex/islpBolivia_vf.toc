@@ -1,0 +1,19 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Antecedentes}{1}{section.1}
+\contentsline {section}{\numberline {2}Introducci\'on}{1}{section.2}
+\contentsline {section}{\numberline {3}Caracter\IeC {\'\i }sticas de la competencia}{2}{section.3}
+\contentsline {subsection}{\numberline {3.1}Objetivos}{2}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Participantes y categor\IeC {\'\i }as}{3}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Posters}{3}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Registro del poster}{4}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Fechas importantes}{5}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Premios}{5}{subsection.3.6}
+\contentsline {section}{\numberline {4}Comit\'e de Evaluaci\'on (Jurado)}{5}{section.4}
+\contentsline {section}{\numberline {5}Patrocinadores}{6}{section.5}
+\contentsline {section}{\numberline {6}Financiamiento de los Premios}{6}{section.6}
+\contentsline {section}{\numberline {7}Redes sociales de la competencia}{6}{section.7}
+\contentsline {section}{\numberline {A}Afiche internacional}{7}{appendix.Alph1}
+\contentsline {section}{\numberline {B}Modelo de carta de invitaci\'on de patrocinio}{10}{appendix.Alph2}
+\contentsline {section}{\numberline {C}Modelo de carta de invitaci\'on de Jurado}{12}{appendix.Alph3}
+\contentsline {section}{\numberline {D}Criterios de Evaluaci\'on}{14}{appendix.Alph4}
+\contentsline {section}{\numberline {E}Orientaci\'on para el Poster}{16}{appendix.Alph5}
