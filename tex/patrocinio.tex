@@ -1,4 +1,4 @@
-\documentclass[11pt,a4paper]{article}
+\documentclass[10.9pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
 \usepackage[T1]{fontenc}
@@ -13,6 +13,7 @@
 %\usepackage{lipsum}
 \pagenumbering{gobble} % omite la numeracion de las páginas
 \usepackage{fontawesome}
+\usepackage{pdfpages}
 %\renewcommand{\rmdefault}{phv} % Arial
 %\renewcommand{\sfdefault}{phv} % Arial
 %\rhead{}
@@ -38,20 +39,20 @@ La Paz - Bolivia\\
 \faPhone: 22004492 22004491 \\ 
  \end{footnotesize}} 
  
- \rhead{\includegraphics[scale=0.4]{islp} } %texto izquierda de la cabecera
+ \rhead{\includegraphics[scale=0.5]{islp} } %texto izquierda de la cabecera
  \lhead{\includegraphics[scale=0.25]{arulogo} } %texto izquierda de la cabecera
 %\thispagestyle{empty}
 
 \begin{document}
 \hfill
-\vspace{0.2cm}\\
+\vspace{0.7cm}\\
 
 \hspace{5.5cm} \today \\
 
-Nombre Completo 
+Señor: Carlos Henríquez PhD 
 
-\textbf{NOMBRE DE LA INSTITUCIÓN}
-\vspace{0.2cm}\\
+\textbf{CENTRO LATINOAMERICANO DE ESTADÍSTICA APLICADA}
+\vspace{0.1cm}\\
 
 
 \begin{tabular}{lp{10cm}}
@@ -64,7 +65,6 @@ De nuestra mayor consideración.\\
 
 Durante los meses de Mayo de 2018 a Enero de 2019 se llevará a cabo la \textbf{Primera Competencia Boliviana de Posters Estadísticos}, esta competencia es parte del `Proyecto Internacional de Alfabetización Estadística'' (ISLP), ésta fue lanzada a inicios de 2018 y está abierta a estudiantes de escuelas y universidades de todo el mundo. Los ganadores de las competencias nacionales pasan a concursar en la competencia internacional. La competencia en Bolivia es coordinada por Fundación Aru y el ISLP, actualmente se realizan tareas de preparación.\\
 
-
 Reconocemos el compromiso de su institución con la promoción de la estadística en el País, por ello \textbf{Invitamos a que su institución forme parte de los patrocinadores de esta competencia}. El patrocinio puede estar vinculado a una o más de las siguientes características:
 
 \begin{itemize}
@@ -76,17 +76,24 @@ Reconocemos el compromiso de su institución con la promoción de la estadístic
 
 El soporte de los patrocinadores permitirá hacer sostenible la competencia a largo plazo y brindará una oportunidad a los patrocinadores de visibilizarce como instituciones que apoyan los procesos de Alfabetización Estadística en Bolivia. \\
 
-Le solicitamos pueda confirmar la participación de su institución hasta el 30 de abril del presente. Si desea tener una reunión para conocer más acerca del proyecto o intercambiar ideas no dude en contactarnos a \faEnvelopeO: \url{achirino@aru.org.bo} o  \faPhone: 70694453.\\
+Le solicitamos pueda confirmar la participación de su institución hasta el 31 de Julio del presente. Si desea tener una reunión para conocer más acerca del proyecto o intercambiar ideas no dude en contactarnos a \faEnvelopeO: \url{achirino@aru.org.bo} -  \faPhone: 70694453 o visitarnos a la página de la ''Competencia de Posters Bolivianos'' \faGoogle:  \url{https://islp-bolivia.github.io/}.\\
 
 Atentamente:
 
 %\marginpar{Coloca anotações na margem}
 
 \begin{center}
-\vspace{1.6cm}
----------------------------------------\hspace{0.5cm} ---------------------------------------\\
+\vspace{0.1cm}
+
+\includegraphics[scale=0.8]{firmaPaul}\hspace{5.7cm}
+
+
 \noindent \hspace{0.2cm}Paul Villarroel Via \hspace{2.7cm}				Alvaro Chirino Gutierrez\\
 \hspace{0.5cm}Director Fundación Aru \hspace{1.7cm}	Coordinador Nacional ISLP
 
 \end{center}
+
+\newpage
+
+\includepdf[pages=-]{poster.pdf}
 \end{document}
